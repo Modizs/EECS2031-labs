@@ -1,9 +1,6 @@
 /***************************************
-* EECS2031B – Lab1 *
+* EECS2031B â€“ Lab1 *
 * Author: Saleh, Mohamed *
-* Email: mido1996@my.yorku.ca *
-* eecs_username: mido1996 *
-* York Student #: 213704150 
 ****************************************/
 
 #include <stdio.h> // define EOF
