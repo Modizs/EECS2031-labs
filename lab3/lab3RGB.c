@@ -1,3 +1,8 @@
+/***************************************
+* EECS2031B – Lab3 *
+* Author: Saleh, Mohamed *
+****************************************/
+
 #include <stdio.h>
 
 void printBinary(int);
