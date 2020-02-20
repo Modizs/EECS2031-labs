@@ -1,9 +1,6 @@
 /***************************************
-* EECS2031B – Lab 5 *
+* EECS2031B â€“ Lab 5 *
 * Author: Saleh, Mohamed *
-* Email: mido1996@my.yorku.ca *
-* eecs_num: 213704150 *
-* Yorku #: Mido1996
 ****************************************/
 #include <stdio.h>
 
