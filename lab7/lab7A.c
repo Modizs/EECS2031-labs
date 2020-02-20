@@ -1,3 +1,8 @@
+/*************************************** 
+* EECS2031B – Lab 7 *
+* Author: Saleh, Mohamed *
+****************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 
