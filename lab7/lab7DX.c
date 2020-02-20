@@ -1,7 +1,7 @@
-/***************************************
-* EECS2031B – Lab 7 * * Author: Saleh, Mohamed * * Email: mido1996@my.yorku.ca *
-* eecs_num: mido1996 * * York #: 213704150
- ****************************************/
+/*************************************** 
+* EECS2031B – Lab 7 *
+* Author: Saleh, Mohamed *
+****************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
